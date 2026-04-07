@@ -1,0 +1,12 @@
+"""1. College Assignments
+    PPS (2 hrs)
+    Chemistry (3 hrs)
+    PPS Practical File coding (2 hrs)
+    English (3 hrs)
+        Pending: Workshop File (10 hrs)
+                 Maths Book Go through revision (20 hrs)
+2. Maths 1 Week 1 to 4 One shot and Notes Making (6 hrs) -> GA (2 hrs) -> Quiz 1 Mock (1.5 hrs)
+    Pending: Week 5 to 8 One shot -> PA -> GA 
+    
+
+    """
